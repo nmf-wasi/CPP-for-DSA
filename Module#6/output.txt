@@ -1,0 +1,5 @@
+Before assigningName: Shin YunaAge: 23Rank: 5
+Before assigningName: Chaer HoneyAge: 27Rank: 2
+After assigningName: Chaer HoneyAge: 27Rank: 2
+After assigningName: Chaer HoneyAge: 27Rank: 2
+After deletingName: Chaer HoneyAge: 27Rank: 2
